@@ -1,0 +1,8 @@
+# Week 1: Personal Introduction Program
+# Developers Arena Internship
+#
+# This project is built using Python 3.8+ Standard Library.
+# No external third-party dependencies are strictly required.
+#
+# Optional enhancement packages:
+# colorama>=0.4.6
